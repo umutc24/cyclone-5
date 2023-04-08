@@ -4,21 +4,21 @@ Collection of projects for Cyclone 5 written in Verilog.
 
 ## Component Blocks 
 
-Cyclone V FPGA (5CSXF6D6F31C6N)
+* Cyclone V FPGA (5CSXF6D6F31C6N)
 
-50-MHz, 100-MHz, and 125-MHz oscillators
+* 50-MHz, 100-MHz, and 125-MHz oscillators
 
-Memory DDR3 SDRAM & 1Gb Flash with 16-bit data bus
+* Memory DDR3 SDRAM & 1Gb Flash with 16-bit data bus
 
-PCI-e x4
+* PCI-e x4
 
-HSMC
+* HSMC
 
-Gig Ethernet
+* Gig Ethernet
 
-SDI & SMA
+* SDI & SMA
 
-19-V DC Power Supply
+* 19-V DC Power Supply
 
 ## Project 1
 Display
