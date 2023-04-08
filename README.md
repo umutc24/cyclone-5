@@ -14,3 +14,4 @@ SDI & SMA
 19-V DC Power Supply
 
 ## Project 1
+Display
